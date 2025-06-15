@@ -18,7 +18,7 @@ This project implements a **Singly Linked List** using **Object-Oriented Program
 
 ## 📁 Files
 
-- `linked_list.py` – Main Python script containing the implementation and test cases.
+- `assignment.ipynb – Main Python script containing the implementation and test cases.
 - `README.md` – This file.
 
 ---
